@@ -1,4 +1,4 @@
-# danilo cvijetić
+# hey, i'm danilo
 
 fullstack · cloud · devops · iot
 
